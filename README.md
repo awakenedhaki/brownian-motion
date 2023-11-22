@@ -23,4 +23,4 @@ The code simulates Brownian motion by creating a set number of particles that mo
 
 ## Preview
 
-![Simulation]("./assets/brownian-motion.gif")
+![Simulation](assets/brownian-motion.gif)
