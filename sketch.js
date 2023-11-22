@@ -19,9 +19,3 @@ function draw() {
     particle.show();
   })
 }
-
-function keyPressed() {
-  if (key === 's') {
-    saveGif('mySketch', 5);
-  }
-}
