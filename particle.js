@@ -1,9 +1,9 @@
 /**
  * Represents a particle that moves randomly on the canvas while leaving a trail.
- * @class
+ * @class Particle
  */
 class Particle {
-    /**
+  /**
    * Creates a new Particle object.
    * @constructor
    * @param {number} x - The x-coordinate of the initial position.
@@ -18,6 +18,7 @@ class Particle {
 
   /**
    * Updates the position of the particle and its path.
+   * @method Particle#update
    */
   update() {
     // Update path based on maximum length
@@ -39,6 +40,7 @@ class Particle {
 
   /**
    * Renders the particle and its trail on the canvas.
+   * @method Particle#show
    */
   show() {
     // Draw the particle
