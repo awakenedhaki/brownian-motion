@@ -14,6 +14,8 @@ The code simulates Brownian motion by creating a set number of particles that mo
 
 ## Usage
 
+You can access the brownian simulator by clicking [here](https://editor.p5js.org/awakenedhaki/sketches/hC13xuybJ)!
+
 - Modify the `nParticles` constant in `sketch.js` to change the number of particles simulated.
 - Experiment with canvas size adjustments and particle behavior parameters to observe different simulations.
 
